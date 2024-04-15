@@ -73,3 +73,4 @@ function initboardRender(data){
 
 
 export {initboardRender};
+export {RootDiv};
